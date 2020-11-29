@@ -1,2 +1,2 @@
 # BananaMuncher
-BananaMuncher video game
+A pac-man style video game called BananaMuncher! v
